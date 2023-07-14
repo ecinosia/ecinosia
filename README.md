@@ -36,4 +36,8 @@
 <h1 align="center">Latest Projects</h1>
 [![Remedy](https://github-readme-stats.vercel.app/api/pin/?username=ecinosia&repo=remedy)](https://github.com/ecinosia/remedy)
 
+
+<h1 align="center">My Stats</h1>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecinosia)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
