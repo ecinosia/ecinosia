@@ -34,7 +34,7 @@
 
 
 <h1 align="center">Latest Projects</h1>
-[![Remedy](https://github-readme-stats.vercel.app/api/pin/?username=ecinosia&repo=remedy)](https://github.com/ecinosia/remedy)
+![Remedy](https://github-readme-stats.vercel.app/api/pin/?username=ecinosia&repo=remedy)](https://github.com/ecinosia/remedy)
 
 
 <h1 align="center">My Stats</h1>
