@@ -18,6 +18,8 @@
 )  ![](https://img.shields.io/badge/StackOverFlow-%23F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F19197144%2Ffurkan-sar%25c4%25b1diken
 ) 
 
+
+
 <h1 align="center">My Skills</h1>
 <h3 align="center">Programming Languages, Frameworks and Tools</h3>
 
@@ -31,6 +33,7 @@
 )  ![](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 
-
+<h1 align="center">Latest Projects</h1>
+[![Remedy](https://github-readme-stats.vercel.app/api/pin/?username=ecinosia&repo=remedy)](https://github.com/ecinosia/remedy)
 
 </div>
