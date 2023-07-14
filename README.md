@@ -7,7 +7,7 @@
 <h1 align="center">Follow Me</h1>
 <div align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Ffurkansaridiken
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Ffurkansaridiken
 )
 
 
