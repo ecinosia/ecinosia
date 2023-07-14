@@ -32,12 +32,4 @@
 )  ![](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
 )  ![](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-
-<h1 align="center">Latest Projects</h1>
-![Remedy](https://github-readme-stats.vercel.app/api/pin/?username=ecinosia&repo=remedy)](https://github.com/ecinosia/remedy)
-
-
-<h1 align="center">My Stats</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecinosia)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
