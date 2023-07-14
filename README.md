@@ -8,9 +8,9 @@
 <div align="center">
 <h1 align="center">Connect With Me</h1>
 
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ahmetfurkandemir.com/)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Ffurkansaridiken
-)  ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=www.twitter.com%2FTFS_52)  ![](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=www.instagram.com%2Ftahirfurkansaridiken
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com%2Fin%2Ffurkansaridiken
+)](www.linkedin.com/in/furkansaridiken)  ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=www.twitter.com%2FTFS_52)  ![](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=www.instagram.com%2Ftahirfurkansaridiken
 )  ![](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Afurkansaridiken%40gmail.com
 )  ![](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white&link=discordapp.com%2Fusers%2F141582521572917248
 )  ![](https://img.shields.io/badge/Steam-%23000000?style=for-the-badge&logo=steam&logoColor=white&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Fecinosia
