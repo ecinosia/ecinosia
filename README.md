@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image.png)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=3000&pause=500&color=F7ED0C&width=435&lines=Welcome+to+my+profile!;I'm+an+Engineering+Student;Also+I'm+a+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG]([http://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=3000&pause=500&color=F7ED0C&width=435&lines=Welcome+to+my+profile!;I'm+an+Engineering+Student;Also+I'm+a+Flutter+Developer](http://readme-typing-svg.herokuapp.com/?font=Lobster&size=30&duration=3000&pause=500&color=520F87&width=435&lines=Welcome+to+my+profile!;I%27m+a+Computer+Engineer.;I+work+as+Full+Stack+Developer.))](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -17,6 +17,7 @@
 <h3 align="center">Programming Languages, Frameworks and Tools</h3>
 
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 ![](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white
 )  ![](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white
 )  ![](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white
@@ -24,5 +25,11 @@
 )  ![](https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white
 )  ![](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white
 )  ![](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 </div>
